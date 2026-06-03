@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "name": "ujikom",
+    "cleanUrls": true,
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/Kelompok 2.html"
+        }
+    ]
+}
