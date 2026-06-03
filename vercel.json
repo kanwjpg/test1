@@ -5,7 +5,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/Kelompok 2.html"
+            "destination": "/index.html"
         }
     ]
 }
